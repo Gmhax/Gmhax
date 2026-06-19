@@ -1,5 +1,10 @@
-<!-- markdownlint-disable MD033 MD041 -->
-<p align="center">
-  <h3 align="center">⌨️ Hax</h3>
-</p>
+## 🐍 Contribution Snake
 
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Gmhax/Gmhax/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Gmhax/Gmhax/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/Gmhax/Gmhax/output/github-contribution-grid-snake.svg">
+</picture>
